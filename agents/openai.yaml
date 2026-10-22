@@ -1,0 +1,4 @@
+interface:
+  display_name: "TPAMI Writing"
+  short_description: "Evidence-based TPAMI drafting and section review"
+  default_prompt: "Use $tpami-writing to improve this TPAMI manuscript, connecting each contribution to its method and evidence."

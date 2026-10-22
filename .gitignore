@@ -1,0 +1,18 @@
+# Local operating-system and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local credentials and temporary outputs
+.env
+.env.*
+*.pem
+*.key
+__pycache__/
+*.py[cod]
+tmp/
+
+# Raw study sources and manuscript downloads stay outside the skill bundle
+sources/
+*.pdf
